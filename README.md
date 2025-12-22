@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br><br>👋 Hi, I’m Ankit Kumar, a Software Engineer with 4+ years of experience building scalable, production-ready web applications.<br>I primarily work on frontend engineering and am actively transitioning into a Full-Stack Developer role by strengthening my backend and system design skills.<br><br>I enjoy working on complex, real-world problems, improving performance, and writing clean, maintainable code that scales with growing products.
+👋 Hi, I’m Ankit Kumar, a Software Engineer with 4+ years of experience building scalable, production-ready web applications.<br>I primarily work on frontend engineering and am actively transitioning into a Full-Stack Developer role by strengthening my backend and system design skills.<br><br>I enjoy working on complex, real-world problems, improving performance, and writing clean, maintainable code that scales with growing products.
 
 
 # 💻 Tech Stack:
